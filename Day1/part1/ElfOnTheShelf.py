@@ -2,8 +2,6 @@ from get_input import get_input
 
 input_data = get_input("input.txt")
 
-test = str(input_data).split()
-
 bucket1 = []
 bucket2 = []
 # grooming data while transforming strings into ints
